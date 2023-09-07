@@ -1,7 +1,11 @@
 # blog-api
 Criação das APIs de um blog em Spring Boot.
 
-Para rodar o código: mvn spring-boot:run
+Para testar as APIs:
+* Criar um banco de dados chamado "blog" no PostgreSQL.
+* Abrir a pasta raiz do código em alguma IDE.
+* Digitar no terminal: mvn spring-boot:run
+* Fazer as requisições com Postman e/ou ThunderClient.
 
 # Trabalho 1 - JPA
 
